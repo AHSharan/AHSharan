@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsharan" alt="ahsharan" /></a> </p>
 
-- 🔭 I’m currently working on **JARVIS,**
+- 🔭 I’m currently working on **JARVIS, Smart System**
 
 - 📫 How to reach me **hemsharan3050@gmail.com**
 
