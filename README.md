@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Sharan</h1>
 <h3 align="center">A Entrepreneur and a programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsharan&label=Profile%20views&color=0e75b6&style=flat" alt="ahsharan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsharan" alt="ahsharan" /></a> </p>
-
 - 🔭 I’m currently working on **JARVIS, Smart System**
 
 - 📫 How to reach me **hemsharan3050@gmail.com**
