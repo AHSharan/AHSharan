@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sharan</h1>
-<h3 align="center">A Entrepreneur and a programmer</h3>
+<h3 align="center">An Entrepreneur and a programmer</h3>
 
 - 🔭 I’m currently working on **JARVIS, Smart System**
 
